@@ -206,7 +206,7 @@
 | [Point-to-Spike Residual Learning for Energy-Efficient 3D Point Cloud Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28425) |                                                              | AAAI 2024                                                    |
 | [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks](https://arxiv.org/abs/2403.12574) |                                                              |                                                              |
 | [Using spiking neural networks to assist fine art and philology study: to classify styles of Chinese calligraphy with minimal computing power](https://openreview.net/forum?id=1715SJkbj7) |                                                              | ICLR 2024 Tiny Papers                                        |
-| [Spiking Wavelet Transformer](https://arxiv.org/abs/2403.11138) |                                                              |                                                              |
+| [Spiking Wavelet Transformer](https://arxiv.org/abs/2403.11138) |   https://github.com/bic-L/Spiking-Wavelet-Transformer                                                           | ECCV 2024                                                             |
 | [A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention](https://arxiv.org/abs/2403.10173) |                                                              |                                                              |
 | [A novel stochastic resonance based deep residual network for fault diagnosis of rolling bearing system](https://www.sciencedirect.com/science/article/pii/S0019057824001289) |                                                              | ISA Transactions                                             |
 | [Application of SNNS Model Based On Multi-Dimensional Attention In Drone Radio Frequency Signal Classification](https://ieeexplore.ieee.org/abstract/document/10446694) |                                                              | ICASSP 2024                                                  |
@@ -216,6 +216,7 @@
 |[Tensor decomposition based attention module for spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004143)| https://github.com/RisingEntropy/PFA| Knowledge-Based Systems                                                                                                    |
 |[Fast gradient-free activation maximization for neurons in spiking neural networks](https://arxiv.org/abs/2401.10748)| https://github.com/iabs-neuro/mango |  |
 |[Direct training high-performance deep spiking neural networks: a review of theories and methods](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full)|  |Frontiers in Neuroscience 2024|
+|[Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks](https://arxiv.org/pdf/2412.16219)| https://github.com/bic-L/burst-ann2snn |AAAI 2025|
 
 If you use SpikingJelly in your paper, you can also add it to this table by pull request.
 
